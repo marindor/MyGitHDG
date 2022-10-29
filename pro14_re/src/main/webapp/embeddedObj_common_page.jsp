@@ -13,9 +13,9 @@
 <title>회원 정보</title>
 </head>
 <body>
-	<!-- 
+	 
 	<form method="post" action="embeddedObj_param.jsp">
-	-->
+	
 	<!-- 
 	<form method="post" action="embeddedObj_requestScope.jsp">
 	-->
@@ -28,7 +28,9 @@
 	<!-- 
 	<form method="post" action="embeddedObj_collection_Hashmap.jsp">
 	 -->
+	 <!-- 
 	<form method="post" action="embeddedObj_has-a_relationship.jsp">
+	 -->
 		id : <input type="text" name="id"><br>
 		password : <input type="password" name="pwd"><br>
 		name : <input type="name" name="name"><br>
